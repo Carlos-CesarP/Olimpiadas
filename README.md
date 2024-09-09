@@ -1,4 +1,4 @@
-##  **README.md Descontraído para o Seu Projeto de Busca de Atletas** 
+##  Desvendando atletas - Imersão Dev com o google Gemini** 
 
 ** O que essa bagaça faz?**
 
